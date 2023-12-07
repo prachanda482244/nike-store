@@ -1,4 +1,5 @@
 import Button from "../Components/Button"
+import { arrowRight } from "../assets/icons"
 import { shoe8 } from "../assets/images"
 
 const SuperQuality = () => {
@@ -22,7 +23,7 @@ const SuperQuality = () => {
                     Our dedication to detail and excellence ensures your satisfaction
                 </p>
                 <div className='mt-11'>
-                    <Button label='View details' />
+                    <Button label='View details' iconURL={arrowRight} />
                 </div>
             </div>
 
@@ -33,6 +34,7 @@ const SuperQuality = () => {
                     width={570}
                     height={522}
                     className='object-contain'
+
                 />
             </div>
         </section>

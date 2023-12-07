@@ -111,14 +111,14 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "pralhadrana123@gmail.com", link: "mailto:pralhadrana123@gmail.com" },
+            { name: "+9779860938293 ", link: "tel:+977 9860938293" },
         ],
     },
 ];
 
 export const socialMedia = [
-    { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
+    { src: facebook, alt: "facebook logo", href: 'https://www.facebook.com/itachiUchiha482244' },
+    { src: twitter, alt: "twitter logo", href: 'https://www.twitter.com/Itachi482244' },
     { src: instagram, alt: "instagram logo" },
 ];

@@ -36,6 +36,7 @@ const SpecialOffers = () => {
                         backgroundColor='bg-white'
                         borderColor='border-slate-gray'
                         textColor='text-slate-gray'
+                        iconURL={arrowRight}
                     />
                 </div>
             </div>
